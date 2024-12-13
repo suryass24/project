@@ -1,4 +1,5 @@
-Customer Sales Tracker
+# Customer Sales Tracker
+
 Tools Used 
 Programming Language - Python
 Frameworks -                     Pandas, Matplotlib, Google Colab
@@ -23,4 +24,3 @@ Generating insights that involves analysing data patterns, identifying trends, a
 Data Visualization
 
 Data visualization is the graphical representation of data used to make complex data more accessible, understandable, and usable.
-# project
